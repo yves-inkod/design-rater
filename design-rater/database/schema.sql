@@ -1,1 +1,0 @@
-CREATE TABLE design_samples (id UUID PRIMARY KEY, title TEXT);
